@@ -21,4 +21,5 @@
     - Account and Admin Priviledges
     - Delete API
     - Blog Post
-  If you have more suggestions then please reach out to me! I would love to work and maintain further as we can potentially help students find easy recipies!
+
+- If you have more suggestions then please reach out to me! I would love to work and maintain further as we can potentially help students find easy recipies!
