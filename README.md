@@ -7,7 +7,7 @@
 ## 🚩 Get Started
 
 1. make sure you have npm installed
-2. clone the repo `git clone https://github.com/BigFish2086/forkify`
+2. clone the repo `git clone <your repo>`
 3. inside the repo directory run `npm install`
 4. run `npm run build`
 
@@ -15,3 +15,10 @@
 
 - In case of having problems using the current api, try running `export NODE_OPTIONS=--openssl-legacy-provider`
   before running `npm run build`
+
+- I am migrating this project to NextJs and adding some features to this application such as:
+    - Login/Sign Up flow
+    - Account and Admin Priviledges
+    - Delete API
+    - Blog Post
+  If you have more suggestions then please reach out to me! I would love to work and maintain further as we can potentially help students find easy recipies!
